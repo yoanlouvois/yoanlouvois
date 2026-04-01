@@ -5,7 +5,7 @@
   🤖 Building scalable systems & production-ready ML pipelines
 </p>
 
-### 🧠 About Me
+### About Me
 
 - 🎓 Engineering degree in **Computer Science & Applied Mathematics**  
   from <b>Polytech Paris-Saclay</b> (2026)
