@@ -1,11 +1,9 @@
-<h1 align="center">👋 Hi, welcome to my GitHub</h1>
+<h1 align="center"> Hi, welcome to my GitHub</h1>
 <h3 align="center">Software Engineer • DevOps • MLOps • Backend</h3>
 
 <p align="center">
-  🚀 Building scalable systems & production-ready ML pipelines
+  🤖 Building scalable systems & production-ready ML pipelines
 </p>
-
----
 
 ### 🧠 About Me
 
