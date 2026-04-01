@@ -5,7 +5,7 @@
   🤖 Building scalable systems & production-ready ML pipelines
 </p>
 
-### About Me
+### 🧠 About Me
 
 - 🎓 Engineering degree in **Computer Science & Applied Mathematics**  
   from <b>Polytech Paris-Saclay</b> (2026)
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=yoanlouvois&layout=compact&theme=blueberry&hide_border=true" />
