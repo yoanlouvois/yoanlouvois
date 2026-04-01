@@ -38,6 +38,6 @@
 
 ### 📫 Connect with me
 
-- 🌐 Portfolio: (add your link)
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (optional)
+- 🌐 Portfolio: 
+- 💼 LinkedIn: www.linkedin.com/in/yoan-louvois-a74620238
+- 📧 Email: yoan.louvois@gmail.com
