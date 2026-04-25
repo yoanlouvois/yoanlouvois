@@ -28,6 +28,9 @@
 
 ### 📈 GitHub Insights
 
+<p align="center">
+ <img src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=yoanlouvois&layout=compact&theme=blueberry&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800" />
+</p>
 
 ---
 
