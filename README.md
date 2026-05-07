@@ -29,7 +29,7 @@
 ### 📈 GitHub Insights
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoanlouvois&layout=compact&theme=blueberry&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoanlouvois&theme=github_dark" />
 </p>
 
 ---
