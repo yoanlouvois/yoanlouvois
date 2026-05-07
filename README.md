@@ -36,6 +36,6 @@
 
 ### 📫 Connect with me
 
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://yoanlouvois.github.io/e-portfolio/
 - 💼 LinkedIn: www.linkedin.com/in/yoan-louvois-a74620238
 - 📧 Email: yoan.louvois@gmail.com
