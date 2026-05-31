@@ -7,14 +7,14 @@
 
 ### 🧠 About Me
 
-- 🎓 Engineering degree in **Computer Science & Applied Mathematics**  
+- Engineering degree in **Computer Science & Applied Mathematics**  
   from <b>Polytech Paris-Saclay</b> (2026)
 
-- ⚙️ Interested in **DevOps, MLOps, Cloud Engineering & Backend Systems**
+- Interested in **DevOps, MLOps, Cloud Engineering & Backend Systems**
 
-- 🤖 Passionate about **Deep Learning** and deploying models in real-world environments
+- Passionate about **Deep Learning** and deploying models in real-world environments
 
-- ☁️ I enjoy designing **robust infrastructures**, automating workflows, and scaling applications
+- I enjoy designing **robust infrastructures**, automating workflows, and scaling applications
 
 ---
 
