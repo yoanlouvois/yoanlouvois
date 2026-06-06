@@ -1,24 +1,23 @@
-<h1 align="center"> Hi, welcome to my GitHub</h1>
-<h3 align="center">Software Engineer • DevOps • MLOps • Backend</h3>
+<h1 align="center"> Bonjour, bienvenue sur mon GitHub</h1>
+<h3 align="center">Ingénieur Logiciel • DevOps • MLOps • Backend</h3>
 
 <p align="center">
-  🤖 Building scalable systems & production-ready ML pipelines
+  🤖 Conception de systèmes scalables et de pipelines ML prêts pour la production
 </p>
 
-### 🧠 About Me
+### 🧠 À propos de moi
 
-- Engineering degree in **Computer Science & Applied Mathematics**  
-  from <b>Polytech Paris-Saclay</b> (2026)
+- Diplôme d'ingénieur en **Informatique et Ingénierie Mathématiques**  
+  de <b>Polytech Paris-Saclay</b> (2026)
 
-- Interested in **DevOps, MLOps, Cloud Engineering & Backend Systems**
+- Intéressé par le **DevOps, le MLOps, le Cloud Engineering et les systèmes Backend**
 
-- Passionate about **Deep Learning** and deploying models in real-world environments
+- Passionné par le **Deep Learning** et le déploiement de modèles dans des environnements réels
 
-- I enjoy designing **robust infrastructures**, automating workflows, and scaling applications
-
+- J'aime concevoir des **infrastructures robustes**, automatiser les workflows et faire passer les applications à l'échelle
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Compétences Techniques
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,js,tensorflow,sklearn,pandas,numpy,postgres,mongodb,docker,aws,kubernetes,opencv" />
@@ -26,7 +25,7 @@
 
 ---
 
-### 📈 GitHub Insights
+### 📈 Statistiques GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoanlouvois&theme=github_dark" />
@@ -34,8 +33,8 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Me contacter
 
-- 🌐 Portfolio: https://yoanlouvois.github.io/e-portfolio/
-- 💼 LinkedIn: www.linkedin.com/in/yoan-louvois-a74620238
-- 📧 Email: yoan.louvois@gmail.com
+- 🌐 Portfolio : https://yoanlouvois.github.io/e-portfolio/
+- 💼 LinkedIn : www.linkedin.com/in/yoan-louvois-a74620238
+- 📧 Email : yoan.louvois@gmail.com
