@@ -5,7 +5,7 @@
   🤖 Conception de systèmes scalables et de pipelines ML prêts pour la production
 </p>
 
-### 🧠 À propos de moi
+### À propos de moi
 
 - Diplôme d'ingénieur en **Informatique et Ingénierie Mathématiques**  
   de <b>Polytech Paris-Saclay</b> (2026)
@@ -18,6 +18,22 @@
 ---
 
 ### 🛠️ Compétences Techniques
+
+J'aime particulièrement travailler à l'intersection entre :
+
+- 🧠 **IA & Deep Learning** : PyTorch, TensorFlow, Scikit-learn, CNN, Transformers, fine-tuning et entraînement de modèles.
+
+- 🤖 **IA agentique & Automatisation** : LangChain, agents IA, orchestration d'outils, workflows automatisés, vLLM, llama.cpp.
+
+- 👁️ **Computer Vision** : classification d'images, segmentation sémantique (U-Net), Graph Neural Networks (GNN).
+
+- ⚙️ **Software Engineering** : développement d'applications, APIs REST, architecture backend, bases de données, clean architecture, tests automatisés et qualité logicielle.
+
+- ☁️ **Cloud & CloudOps** : AWS, Google Cloud Platform (en cours d'apprentissage), Azure ML, Amazon SageMaker AI.
+
+- 🚀 **DevOps & MLOps** : Docker, Kubernetes, Terraform, Ansible, GitHub Actions, GitLab CI/CD, Argo CD, Prometheus, Grafana, Loki.
+
+
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,js,tensorflow,sklearn,pandas,numpy,postgres,mongodb,docker,aws,kubernetes,opencv" />
