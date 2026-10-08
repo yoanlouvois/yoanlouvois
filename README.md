@@ -198,6 +198,34 @@ PostgreSQL, MySQL.
 </tr>
 </table>
 
+
+## 🚀 Projets
+
+### ☁️ Cloud, DevOps & MLOps
+
+- **[Site-Monitor-K8s](https://github.com/yoanlouvois/site-monitor-k8s)** : moniteur de disponibilité en microservices sur un cluster Kubernetes (kubeadm) provisionné avec Terraform sur GCP. Sécurité durcie (NetworkPolicies, Pod Security Standards, RBAC), autoscaling HPA, observabilité Prometheus/Grafana et alertes Discord.  
+  `Kubernetes` `GCP` `Terraform` `Docker` `FastAPI` `Redis` `Prometheus`
+
+- **[Urban-Green-Score-MLops](https://github.com/yoanlouvois/urban-green-score-mlops)** : infrastructure MLOps de bout en bout sur AWS avec Terraform. Déploiement serverless (API Gateway, Lambda) et conteneurisé (Docker, ECR) d'un modèle SageMaker de segmentation d'images satellites.  
+  `Python` `PyTorch` `AWS` `SageMaker` `Terraform` `Docker`
+
+- **[GameTracker](https://github.com/yoanlouvois/game-tracker-project-backend)** : application web full-stack de jeux en ligne (trophées, amis, statistiques), conteneurisée et déployée sur AWS via Terraform dans une architecture multi-AZ.  
+  `Java` `Spring Boot` `Angular` `MySQL` `Docker` `AWS` `Terraform`
+
+### Autres projets
+
+- **[Travel-Tracker-App](https://github.com/yoanlouvois/travel-tracker-app)** : application web pour consigner et visualiser ses voyages sur une carte interactive.  
+  `Node.js` `Express` `Prisma` `Leaflet`
+
+- **[3D-Maze-Environment-OpenGL](https://github.com/yoanlouvois/3d-maze-environment-opengl)** : labyrinthe 3D généré de manière procédurale, navigable en temps réel.  
+  `C++` `OpenGL`
+
+- **[Unsupervised-ML-Fruits-Classification](https://github.com/yoanlouvois/Unsupervised-ML-Fruits-Classification)** : comparaison de méthodes d'extraction de caractéristiques et de clustering sur des images de fruits, avec une interface Streamlit.  
+  `Python` `Scikit-learn` `ResNet50` `Streamlit`
+
+- **[TreeAppsProject](https://github.com/yoanlouvois/TreeAppsProject)** : trois applications de bureau interconnectées pour gérer les arbres d'une commune et voter pour les arbres remarquables.  
+  `Java` `JavaFX` `Maven`
+
 ---
 
 ### 📈 Statistiques GitHub
