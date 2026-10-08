@@ -229,8 +229,13 @@ PostgreSQL, MySQL.
 - **[LangChain-Agent-Labs](https://github.com/yoanlouvois/langchain-agent-labs)** : expérimentations LangChain, dont un agent exposé via FastAPI qui recommande des librairies de programmation et compare leurs licences dans un tableau.  
   `Python` `LangChain` `FastAPI` `Streamlit` `Groq`
 
+### Mini Jeux
+
 - **[CMDominion](https://github.com/yoanlouvois/CMDominionGame)** : adaptation en ligne de commande du jeu de deck-building *Dominion*, jouable de 2 à 4 joueurs en local.  
   `C++` `Make` `CMake`
+
+- **[Tout-en-Canon](https://github.com/yoanlouvois/tout-en-canon-game)** : jeu d'aventure en 2D où l'on explore une pyramide en réorganisant ses salles pour retrouver un trésor caché.  
+  `Java` `JavaFX`
 
 ---
 
