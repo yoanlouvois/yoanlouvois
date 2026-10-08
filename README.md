@@ -17,7 +17,7 @@
 - Passionné par le **Deep Learning** et le déploiement de modèles dans des environnements réels
 
 - J'aime concevoir des **infrastructures robustes**, automatiser les workflows et faire passer les applications à l'échelle
----
+
 
 ## 🛠️ Compétences Techniques
 
