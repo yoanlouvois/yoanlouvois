@@ -12,6 +12,8 @@
 - Diplôme d'ingénieur en **Informatique et Ingénierie Mathématiques**  
   de <b>Polytech Paris-Saclay</b> (2026)
 
+- Certifié **AWS Certified Solutions Architect – Associate** (SAA-C03)
+
 - Intéressé par le **DevOps, le MLOps, le Cloud Engineering et l'ingénierie logiciel en général**
 
 - Passionné par le **Deep Learning** et le déploiement de modèles dans des environnements réels
