@@ -91,7 +91,7 @@ Développement backend, APIs REST, architecture logicielle, bases de données, c
 
 #### ☁️ Cloud & CloudOps
 
-AWS, Google Cloud Platform *(en cours d'apprentissage)*, Amazon SageMaker AI, Azure ML.
+AWS, Google Cloud Platform, Amazon SageMaker AI, Azure ML *(en cours d'apprentissage)* .
 
 <table>
 <tr>
@@ -113,7 +113,7 @@ AWS, Google Cloud Platform *(en cours d'apprentissage)*, Amazon SageMaker AI, Az
 
 #### 🚀 DevOps & MLOps
 
-Docker, Kubernetes, Terraform, Ansible, GitHub Actions, GitLab CI/CD, Prometheus.
+Docker, Kubernetes, Terraform, Ansible *(en cours d'apprentissage)* , GitHub Actions, GitLab CI/CD, Prometheus, Grafana.
 
 <table>
 <tr>
@@ -137,6 +137,9 @@ Docker, Kubernetes, Terraform, Ansible, GitHub Actions, GitLab CI/CD, Prometheus
 </td>
 <td align="center" width="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/><br>Prometheus
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/><br>Grafana
 </td>
 </tr>
 </table>
@@ -169,7 +172,7 @@ C++, Java, Python, JavaScript, TypeScript.
 
 #### 🛠️ Frameworks & Technologies
 
-Spring Boot, FastAPI, Flask, Node.js, Express.js, Angular, Apache, Qt.
+Spring Boot, FastAPI, Flask, Node.js, Express.js, Angular, Qt.
 
 <table>
 <tr>
@@ -190,9 +193,6 @@ Spring Boot, FastAPI, Flask, Node.js, Express.js, Angular, Apache, Qt.
 </td>
 <td align="center" width="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/><br>Angular
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br>Apache
 </td>
 <td align="center" width="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40"/><br>Qt
