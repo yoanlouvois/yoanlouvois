@@ -201,7 +201,7 @@ PostgreSQL, MySQL.
 
 ## 🚀 Projets
 
-### ☁️ Cloud, DevOps & MLOps
+### Cloud, DevOps & MLOps
 
 - **[Site-Monitor-K8s](https://github.com/yoanlouvois/site-monitor-k8s)** : moniteur de disponibilité en microservices sur un cluster Kubernetes (kubeadm) provisionné avec Terraform sur GCP. Sécurité durcie (NetworkPolicies, Pod Security Standards, RBAC), autoscaling HPA, observabilité Prometheus/Grafana et alertes Discord.  
   `Kubernetes` `GCP` `Terraform` `Docker` `FastAPI` `Redis` `Prometheus`
