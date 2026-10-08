@@ -1,8 +1,10 @@
 <h1 align="center"> Bonjour, bienvenue sur mon GitHub</h1>
-<h3 align="center">Ingénieur Logiciel • DevOps • MLOps • Backend</h3>
+<h3 align="center">Ingénieur Logiciel • DevOps • MLOps • Cloud</h3>
 
 <p align="center">
-  🤖 Conception de systèmes scalables et de pipelines ML prêts pour la production
+  <a href="https://www.credly.com/badges/ef5b0ac1-3f3d-4744-bdbf-df487b701248/public_url">
+    <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
 </p>
 
 ### À propos de moi
@@ -10,7 +12,7 @@
 - Diplôme d'ingénieur en **Informatique et Ingénierie Mathématiques**  
   de <b>Polytech Paris-Saclay</b> (2026)
 
-- Intéressé par le **DevOps, le MLOps, le Cloud Engineering et les systèmes Backend**
+- Intéressé par le **DevOps, le MLOps, le Cloud Engineering et l'ingénierie logiciel en général**
 
 - Passionné par le **Deep Learning** et le déploiement de modèles dans des environnements réels
 
@@ -67,31 +69,9 @@ Classification d'images, segmentation sémantique (U-Net), Graph Neural Networks
 </table>
 
 
-#### ⚙️ Software Engineering
-
-Développement backend, APIs REST, architecture logicielle, bases de données, clean architecture, tests automatisés.
-
-<table>
-<tr>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
-</td>
-</tr>
-</table>
-
-
 #### ☁️ Cloud & CloudOps
 
-AWS, Google Cloud Platform, Amazon SageMaker AI, Azure ML *(en cours d'apprentissage)* .
+AWS (**certifié Solutions Architect – Associate**), Google Cloud Platform, Amazon SageMaker AI, Azure ML *(en cours d'apprentissage)* .
 
 <table>
 <tr>
