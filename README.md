@@ -226,6 +226,12 @@ PostgreSQL, MySQL.
 - **[TreeAppsProject](https://github.com/yoanlouvois/TreeAppsProject)** : trois applications de bureau interconnectées pour gérer les arbres d'une commune et voter pour les arbres remarquables.  
   `Java` `JavaFX` `Maven`
 
+- **[LangChain-Agent-Labs](https://github.com/yoanlouvois/langchain-agent-labs)** : expérimentations LangChain, dont un agent exposé via FastAPI qui recommande des librairies de programmation et compare leurs licences dans un tableau.  
+  `Python` `LangChain` `FastAPI` `Streamlit` `Groq`
+
+- **[CMDominion](https://github.com/yoanlouvois/CMDominionGame)** : adaptation en ligne de commande du jeu de deck-building *Dominion*, jouable de 2 à 4 joueurs en local.  
+  `C++` `Make` `CMake`
+
 ---
 
 ### 📈 Statistiques GitHub
