@@ -209,7 +209,7 @@ PostgreSQL, MySQL.
 - **[Urban-Green-Score-MLops](https://github.com/yoanlouvois/urban-green-score-mlops)** : infrastructure MLOps de bout en bout sur AWS avec Terraform. Déploiement serverless (API Gateway, Lambda) et conteneurisé (Docker, ECR) d'un modèle SageMaker de segmentation d'images satellites.  
   `Python` `PyTorch` `AWS` `SageMaker` `Terraform` `Docker`
 
-- **[GameTracker](https://github.com/yoanlouvois/game-tracker-project-backend)** : application web full-stack de jeux en ligne (trophées, amis, statistiques), conteneurisée et déployée sur AWS via Terraform dans une architecture multi-AZ.  
+- **[GameTracker](https://github.com/yoanlouvois/game-tracker-project-infra)** : application web full-stack de jeux en ligne (trophées, amis, statistiques), conteneurisée et déployée sur AWS via Terraform dans une architecture multi-AZ.  
   `Java` `Spring Boot` `Angular` `MySQL` `Docker` `AWS` `Terraform`
 
 ### Autres projets
